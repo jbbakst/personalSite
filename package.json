@@ -1,0 +1,26 @@
+{
+  "name": "personalSite",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbbakst/personalSite.git"
+  },
+  "author": "JB Bakst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbbakst/personalSite/issues"
+  },
+  "homepage": "https://github.com/jbbakst/personalSite",
+  "dependencies": {
+    "body-parser": "^1.9.1",
+    "express": "^4.9.8",
+    "method-override": "^2.3.0",
+    "mongojs": "^0.15.1",
+    "morgan": "^1.4.1"
+  }
+}
